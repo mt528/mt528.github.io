@@ -6,3 +6,5 @@ These are the .css and image needed for a one page  - see domscode.com for the t
 Added a work email to contact. - 01/05/2021
 
 Added Broadstairs College Infomation - 05/05/2021
+
+Added more info within the profile - 15/05/2021
