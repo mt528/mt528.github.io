@@ -9,3 +9,5 @@ Added Broadstairs College Infomation - 05/05/2021
 
 Added more info within the profile - 15/05/2021
 Gave a link to my github work
+
+Removed the phone number - 31/05/2021
